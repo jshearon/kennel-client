@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "Python Kennels",
+      "database": "${workspaceFolder:kennel-client}/db/kennel.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
